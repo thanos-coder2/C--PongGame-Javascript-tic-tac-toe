@@ -31,7 +31,9 @@
 
 # 🚀 Λειτουργίες
 
-| Feature | Περιγραφή |
+<div align="center">
+
+| ⚡ Feature | 📖 Περιγραφή |
 |---|---|
 | 🎮 Start Menu | Αρχική οθόνη εκκίνησης |
 | ⚡ Neon UI Design | Futuristic neon σχεδιασμός |
@@ -41,13 +43,15 @@
 | 👥 Player Turns | Εναλλαγή παικτών |
 | 📱 Responsive Layout | Προσαρμογή σε διαφορετικές οθόνες |
 
+</div>
+
 ---
 
 # 🛠 Τεχνολογίες
 
 <div align="center">
 
-| Frontend | Styling | Logic |
+| 🌐 Frontend | 🎨 Styling | ⚙️ Logic |
 |---|---|---|
 | HTML5 | CSS3 | Vanilla JavaScript |
 
@@ -57,6 +61,10 @@
 
 # 📂 Δομή Project
 
+<div align="center">
+
+</div>
+
 ```bash
 project-folder/
 │
@@ -65,34 +73,27 @@ project-folder/
 ├── script.js
 └── README.md
 
-🎯 Gameplay
+<div align="center">
+🎮 Gameplay
 🔹 Ο παίκτης X ξεκινά πρώτος
 🔹 Οι παίκτες πατάνε σε ένα κελί για να τοποθετήσουν το σύμβολό τους
-🔹 Το παιχνίδι ελέγχει αυτόματα:
-✅ Νίκη
-🤝 Ισοπαλία
-🔄 Αλλαγή σειράς
-🧠 Λογική Παιχνιδιού
+🔹 Το παιχνίδι ελέγχει αυτόματα νίκη, ισοπαλία και αλλαγή σειράς
+</div>
 
-Η JavaScript χρησιμοποιεί:
-
+<div align="center">
+⚙️ Functionality
 addEventListener() για clicks
 Πίνακες για τα winning patterns
 DOM Manipulation
 Condition Checking για game states
+</div>
+
 💡 Features Preview
 <div align="center">
-
+✨ Features
 ⚡ Dynamic Neon Effects
 🎮 Interactive Gameplay
 🧠 Real-time Winner Detection
 🔄 Instant Restart System
-
 </div>
-👨‍💻 School Project
 
-📚 Εργασία σχολής με στόχο την πρακτική εξάσκηση σε:
-
-Frontend Development
-JavaScript Logic
-Responsive UI Design
