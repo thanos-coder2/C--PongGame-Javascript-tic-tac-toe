@@ -73,27 +73,4 @@ project-folder/
 ├── script.js
 └── README.md
 
-<div align="center">
-🎮 Gameplay
-🔹 Ο παίκτης X ξεκινά πρώτος
-🔹 Οι παίκτες πατάνε σε ένα κελί για να τοποθετήσουν το σύμβολό τους
-🔹 Το παιχνίδι ελέγχει αυτόματα νίκη, ισοπαλία και αλλαγή σειράς
-</div>
-
-<div align="center">
-⚙️ Functionality
-addEventListener() για clicks
-Πίνακες για τα winning patterns
-DOM Manipulation
-Condition Checking για game states
-</div>
-
-💡 Features Preview
-<div align="center">
-✨ Features
-⚡ Dynamic Neon Effects
-🎮 Interactive Gameplay
-🧠 Real-time Winner Detection
-🔄 Instant Restart System
-</div>
 
