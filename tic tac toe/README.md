@@ -65,3 +65,34 @@ project-folder/
 ├── script.js
 └── README.md
 
+🎯 Gameplay
+🔹 Ο παίκτης X ξεκινά πρώτος
+🔹 Οι παίκτες πατάνε σε ένα κελί για να τοποθετήσουν το σύμβολό τους
+🔹 Το παιχνίδι ελέγχει αυτόματα:
+✅ Νίκη
+🤝 Ισοπαλία
+🔄 Αλλαγή σειράς
+🧠 Λογική Παιχνιδιού
+
+Η JavaScript χρησιμοποιεί:
+
+addEventListener() για clicks
+Πίνακες για τα winning patterns
+DOM Manipulation
+Condition Checking για game states
+💡 Features Preview
+<div align="center">
+
+⚡ Dynamic Neon Effects
+🎮 Interactive Gameplay
+🧠 Real-time Winner Detection
+🔄 Instant Restart System
+
+</div>
+👨‍💻 School Project
+
+📚 Εργασία σχολής με στόχο την πρακτική εξάσκηση σε:
+
+Frontend Development
+JavaScript Logic
+Responsive UI Design
