@@ -8,8 +8,7 @@
 
 ![Screenshot](images/restart.png)
 
-### 🎮 Neon έκδοση του κλασικού Tic Tac Toe  
-Κατασκευασμένο με **HTML • CSS • JavaScript**
+
 
 </div>
 
