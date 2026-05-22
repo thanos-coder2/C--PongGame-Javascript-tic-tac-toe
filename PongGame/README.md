@@ -1,5 +1,18 @@
 # Pong Game - Εργασία ΙΕΚ
 ---
+
+<div align="center">
+
+![Screenshot](images/photo-1.png)
+
+![Screenshot](images/photo-2.png)
+
+![Screenshot](images/photo-3.png)
+
+
+
+</div>
+---
 # Περιγραφή Project
 Το συγκεκριμένο project είναι ένα παιχνίδι τύπου Pong, υλοποιημένο σε C# Windows Forms.
 Το παιχνίδι είναι multiplayer για 2 παίκτες και βασίζεται στην κλασική λογική του retro Pong game.
