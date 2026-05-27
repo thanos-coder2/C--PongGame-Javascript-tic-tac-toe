@@ -1,4 +1,4 @@
-# Pong Game - Εργασία ΙΕΚ
+# Pong Game - Εργασία ΙΕΚ 
 ---
 
 <div align="center">
