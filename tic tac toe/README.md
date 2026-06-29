@@ -65,6 +65,12 @@
 </div>
 
 ```bash
+project-folder/
+│
+├── tic-tac-toe.html
+├── style.css
+├── script.js
+└── README.md
 ```
 
 # ⚡ Tic Tac Toe Neon ⚡
